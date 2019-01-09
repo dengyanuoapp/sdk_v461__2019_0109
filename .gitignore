@@ -1,0 +1,16 @@
+
+/lnx/
+/win/
+
+/tags
+/cscope.out
+/_vim/cscope.files
+/_vim/cscope.in?
+
+/date.now.txt
+
+/mobile/*.apk
+
+/[0-9a-z].txt
+/[0-9a-z].diff
+/[0-9a-z].bak
